@@ -1,0 +1,3 @@
+[
+    {"keys": ["ctrl+q"], "command": "text_formatting_maxlength"}
+]

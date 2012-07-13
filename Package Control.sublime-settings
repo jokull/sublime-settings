@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": 1342187240,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Jinja2",
+		"Package Control",
+		"Stylus",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TextFormatting",
+		"Theme - Soda",
+		"WordHighlight"
+	]
+}
